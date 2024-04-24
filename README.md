@@ -1,4 +1,4 @@
-### Hey there, I'm Christiano Godinho!🤘
+### 🏄 Hey there, I'm Christiano Godinho!
 
 - 🔭 I’m currently working on an Artificial Intelligence project
 - 📡 I'm part of [@FriendsLabUFF](https://github.com/FriendsLabUFF)
