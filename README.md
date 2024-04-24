@@ -1,5 +1,9 @@
 ### 🏄 Hey there, I'm Christiano Godinho!
 
+Computer science student at Universidade Federal Fluminense, exploring my way towards the code world. 
+
+##
+
 - 🔭 I’m currently working on an Artificial Intelligence project
 - 📡 I'm part of [@FriendsLabUFF](https://github.com/FriendsLabUFF)
 - 🌱 My interests are:
@@ -8,7 +12,7 @@
 - 💡 I’m looking to collaborate on AI developing projects and learning about Data science
 - 📫 How to reach me: christiano_godinho@id.uff.br
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I love the outdoors
+- ⚡ Fun fact: Passionate about nature and sports
 
 <div align="center">
   <a href="https://github.com/christianogodinho">
