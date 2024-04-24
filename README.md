@@ -4,6 +4,7 @@ Computer science student at Universidade Federal Fluminense, exploring my way to
 
 ##
 
+- ⚡ Fun fact: Passionate about nature and sports
 - 🔭 I’m currently working on an Artificial Intelligence project
 - 📡 I'm part of [@FriendsLabUFF](https://github.com/FriendsLabUFF)
 - 🌱 My interests are:
@@ -12,7 +13,6 @@ Computer science student at Universidade Federal Fluminense, exploring my way to
 - 💡 I’m looking to collaborate on AI developing projects and learning about Data science
 - 📫 How to reach me: christiano_godinho@id.uff.br
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Passionate about nature and sports
 
 <div align="center">
   <a href="https://github.com/christianogodinho">
