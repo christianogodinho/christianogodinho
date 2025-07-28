@@ -11,8 +11,7 @@ Computer science student at Universidade Federal Fluminense, exploring my way to
   -  Python (data analysis, machine learning, deep learning)
   -  Data science 
 - 💡 I’m looking to collaborate on AI developing projects and learning about Data science
-- 📫 How to reach me: christiano_godinho@id.uff.br
-- 😄 Pronouns: he/him/his
+- 📫 How to reach me: chrisggp.dev@gmail.com
 
 <div align="center">
   <a href="https://github.com/christianogodinho">
